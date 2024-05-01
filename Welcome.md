@@ -1,0 +1,16 @@
+- [ ] Distrobox
+	- [ ] Nvim
+	- [ ] Vscode(optional)
+	- [ ] dotnet 8.0
+- [ ] Kitty
+- [ ] Discord
+- [ ] telegram
+- [ ] Obsidian
+- [ ] Appimage launcher
+- [ ] PolyMC
+- [ ] MEGA
+- [ ] Krita
+- [ ] Steam
+- [ ] Xournal++
+- [ ] AudioRelay
+- [ ] Flameshot
